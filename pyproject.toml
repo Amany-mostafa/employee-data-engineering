@@ -1,0 +1,11 @@
+[project]
+name = "employee-data-engineering"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "liac-arff>=2.5.0",
+    "pandas>=3.1.0",
+    "pyodbc>=5.3.0",
+    "scipy>=1.18.1",
+    "sqlalchemy>=2.1.6",
+]

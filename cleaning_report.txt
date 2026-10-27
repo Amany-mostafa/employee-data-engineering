@@ -1,0 +1,9 @@
+EMPLOYEE DATA CLEANING REPORT
+Rows in cleaned dataset: 100000
+Columns: 16
+Missing values before cleaning: 1498
+Exact duplicate rows before cleaning: 0
+Duplicate Employee_ID values before cleaning: 0
+Invalid Performance_Score values changed to missing: 100
+Missing values after cleaning: 1598
+Output file: employee_clean.csv

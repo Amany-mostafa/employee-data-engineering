@@ -1,0 +1,12 @@
+# Dataset files
+dataset_
+employee_clean.csv
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
